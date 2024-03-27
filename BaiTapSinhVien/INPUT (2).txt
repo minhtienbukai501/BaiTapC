@@ -1,0 +1,6 @@
+18T1021316, Le Minh Tien, 9.8 
+20T1021316, Nguyen Van A, 10
+19T1032123, Nguyen Thi B, 10
+19T1021312, Van Bao Anh, 5.5
+20T1023123, Nguyen Cong Tuan, 7.6
+ 
